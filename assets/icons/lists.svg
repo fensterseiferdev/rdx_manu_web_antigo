@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="33.675" height="35.072" viewBox="0 0 33.675 35.072">
+  <g id="list-searching-variant" transform="translate(-3.457 0.5)">
+    <path id="Caminho_127" data-name="Caminho 127" d="M25.885,30.6l1.559-1.559a8.428,8.428,0,0,1-1.559-.219ZM5.237,26.568V4.83c0-3.283.265-3.549,3.548-3.549H25.694c3.286,0,3.549.267,3.549,3.549v7.085a8.6,8.6,0,0,1,1.282.317V4.83C30.525.844,29.679,0,25.694,0H8.786C4.8,0,3.957.844,3.957,4.83V26.568c0,3.985.845,4.831,4.829,4.831H25.091V30.117H8.786C5.5,30.117,5.237,29.853,5.237,26.568Zm26.352.321A7.457,7.457,0,1,1,34.321,16.7,7.466,7.466,0,0,1,31.589,26.889Zm-.615-1.067a6.223,6.223,0,1,0-8.5-2.281A6.233,6.233,0,0,0,30.973,25.821Zm2.491.6-3.206,1.855,2.469,4.272L35.933,30.7Zm2.8,4.859-3.207,1.853a1.852,1.852,0,1,0,3.207-1.853Z" transform="translate(0)" fill="#493878" stroke="#493878" stroke-width="1"/>
+    <line id="Linha_5" data-name="Linha 5" x2="16" transform="translate(8.237 6.063)" fill="none" stroke="#493878" stroke-linecap="round" stroke-width="1"/>
+    <line id="Linha_6" data-name="Linha 6" x2="15" transform="translate(8.237 10.063)" fill="none" stroke="#493878" stroke-linecap="round" stroke-width="1"/>
+    <line id="Linha_7" data-name="Linha 7" x2="12" transform="translate(8.237 14.063)" fill="none" stroke="#493878" stroke-linecap="round" stroke-width="1"/>
+    <line id="Linha_8" data-name="Linha 8" x2="9" transform="translate(8.237 18.063)" fill="none" stroke="#493878" stroke-linecap="round" stroke-width="1"/>
+    <line id="Linha_9" data-name="Linha 9" x2="9" transform="translate(8.237 22.063)" fill="none" stroke="#493878" stroke-linecap="round" stroke-width="1"/>
+    <line id="Linha_10" data-name="Linha 10" x2="11" transform="translate(8.237 26.063)" fill="none" stroke="#493878" stroke-linecap="round" stroke-width="1"/>
+  </g>
+</svg>
